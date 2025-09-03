@@ -29,7 +29,7 @@ It’s a fun project to test **reflex speed** using simple electronics and micro
 - Can be extended into sports training tools.  
 
 ## Image
-![WhatsApp Image 2025-09-03 at 1 50 09 PM](https://github.com/user-attachments/assets/52ea8096-2cf4-4fe4-b968-ed2d3d337290)
+<img width="600" height+"600" alt="image" src="https://github.com/user-attachments/assets/52ea8096-2cf4-4fe4-b968-ed2d3d337290"/>
 
 
 ##  Author
